@@ -1,0 +1,820 @@
+[
+  {
+    "id": "p1",
+    "name": "Noise Cancelling Headphones",
+    "brand": "SoundMax",
+    "price": 2999,
+    "category": "Audio",
+    "description": "Over-ear headphones with active noise cancellation, 30-hour battery, deep bass."
+  },
+  {
+    "id": "p2",
+    "name": "Wireless Earbuds Pro",
+    "brand": "BeatFlow",
+    "price": 1999,
+    "category": "Audio",
+    "description": "True wireless earbuds with touch controls, fast charging, and clear sound."
+  },
+  {
+    "id": "p3",
+    "name": "Bluetooth Speaker Mini",
+    "brand": "EchoTune",
+    "price": 1499,
+    "category": "Audio",
+    "description": "Compact Bluetooth speaker with powerful sound and water resistance."
+  },
+  {
+    "id": "p4",
+    "name": "Gaming Headset",
+    "brand": "GameX",
+    "price": 1799,
+    "category": "Audio",
+    "description": "Surround sound gaming headset with noise-isolating microphone."
+  },
+  {
+    "id": "p5",
+    "name": "Soundbar 2.1 Channel",
+    "brand": "AudioWave",
+    "price": 6999,
+    "category": "Audio",
+    "description": "Soundbar with wireless subwoofer for immersive home audio."
+  },
+  {
+    "id": "p6",
+    "name": "5G Smartphone",
+    "brand": "TechNova",
+    "price": 15999,
+    "category": "Mobile",
+    "description": "5G smartphone with AMOLED display and 64MP camera."
+  },
+  {
+    "id": "p7",
+    "name": "Budget Smartphone",
+    "brand": "SmartOne",
+    "price": 8999,
+    "category": "Mobile",
+    "description": "Affordable smartphone with large display and long battery life."
+  },
+  {
+    "id": "p8",
+    "name": "Foldable Smartphone",
+    "brand": "FlexiTech",
+    "price": 79999,
+    "category": "Mobile",
+    "description": "Premium foldable phone with multitasking support."
+  },
+  {
+    "id": "p9",
+    "name": "Smartwatch Series 5",
+    "brand": "TimeTech",
+    "price": 3499,
+    "category": "Wearables",
+    "description": "Smartwatch with heart rate, SpO2, and sleep tracking."
+  },
+  {
+    "id": "p10",
+    "name": "Fitness Band",
+    "brand": "FitPulse",
+    "price": 1499,
+    "category": "Wearables",
+    "description": "Fitness band with step counting and calorie tracking."
+  },
+
+  {
+    "id": "p11",
+    "name": "Laptop 15-inch",
+    "brand": "CoreBook",
+    "price": 54999,
+    "category": "Computers",
+    "description": "15-inch laptop with Intel i5 processor and SSD storage."
+  },
+  {
+    "id": "p12",
+    "name": "Gaming Laptop",
+    "brand": "PredaX",
+    "price": 89999,
+    "category": "Computers",
+    "description": "High-performance gaming laptop with dedicated graphics card."
+  },
+  {
+    "id": "p13",
+    "name": "Tablet 10-inch",
+    "brand": "TabWorld",
+    "price": 19999,
+    "category": "Computers",
+    "description": "10-inch tablet with stylus support and HD display."
+  },
+  {
+    "id": "p14",
+    "name": "Mechanical Keyboard",
+    "brand": "KeyPro",
+    "price": 2999,
+    "category": "Accessories",
+    "description": "Mechanical keyboard with RGB lighting and tactile switches."
+  },
+  {
+    "id": "p15",
+    "name": "Wireless Mouse",
+    "brand": "ClickGo",
+    "price": 999,
+    "category": "Accessories",
+    "description": "Ergonomic wireless mouse with adjustable DPI."
+  },
+
+  {
+    "id": "p16",
+    "name": "USB-C Hub",
+    "brand": "Portify",
+    "price": 1299,
+    "category": "Accessories",
+    "description": "USB-C hub with HDMI, USB, and SD card slots."
+  },
+  {
+    "id": "p17",
+    "name": "External Hard Drive 1TB",
+    "brand": "DataSafe",
+    "price": 4499,
+    "category": "Storage",
+    "description": "Portable 1TB external hard drive with fast transfer speeds."
+  },
+  {
+    "id": "p18",
+    "name": "SSD 512GB",
+    "brand": "SpeedX",
+    "price": 3799,
+    "category": "Storage",
+    "description": "High-speed SSD for faster boot and load times."
+  },
+  {
+    "id": "p19",
+    "name": "Power Bank 20000mAh",
+    "brand": "ChargeUp",
+    "price": 2199,
+    "category": "Accessories",
+    "description": "High-capacity power bank with fast charging support."
+  },
+  {
+    "id": "p20",
+    "name": "Fast Charger 65W",
+    "brand": "VoltMax",
+    "price": 1899,
+    "category": "Accessories",
+    "description": "65W fast charger for laptops and smartphones."
+  },
+
+  {
+    "id": "p21",
+    "name": "Smart TV 43-inch",
+    "brand": "ViewPlus",
+    "price": 27999,
+    "category": "Electronics",
+    "description": "43-inch smart TV with 4K resolution and HDR support."
+  },
+  {
+    "id": "p22",
+    "name": "Smart TV 55-inch",
+    "brand": "UltraView",
+    "price": 45999,
+    "category": "Electronics",
+    "description": "55-inch smart TV with Dolby Vision and Android OS."
+  },
+  {
+    "id": "p23",
+    "name": "Air Conditioner 1.5 Ton",
+    "brand": "CoolAir",
+    "price": 34999,
+    "category": "Home Appliances",
+    "description": "Energy-efficient AC with fast cooling technology."
+  },
+  {
+    "id": "p24",
+    "name": "Refrigerator Double Door",
+    "brand": "FreshCool",
+    "price": 28999,
+    "category": "Home Appliances",
+    "description": "Double door refrigerator with inverter compressor."
+  },
+  {
+    "id": "p25",
+    "name": "Washing Machine Front Load",
+    "brand": "CleanSpin",
+    "price": 31999,
+    "category": "Home Appliances",
+    "description": "Front load washing machine with multiple wash programs."
+  },
+
+  {
+    "id": "p26",
+    "name": "Microwave Oven",
+    "brand": "HeatWave",
+    "price": 8999,
+    "category": "Home Appliances",
+    "description": "Microwave oven with convection cooking support."
+  },
+  {
+    "id": "p27",
+    "name": "Electric Kettle",
+    "brand": "BoilFast",
+    "price": 1499,
+    "category": "Home Appliances",
+    "description": "Electric kettle with auto shut-off feature."
+  },
+  {
+    "id": "p28",
+    "name": "Mixer Grinder",
+    "brand": "MixPro",
+    "price": 3999,
+    "category": "Home Appliances",
+    "description": "High-power mixer grinder with multiple jars."
+  },
+  {
+    "id": "p29",
+    "name": "Vacuum Cleaner",
+    "brand": "DustAway",
+    "price": 6999,
+    "category": "Home Appliances",
+    "description": "Bagless vacuum cleaner with strong suction."
+  },
+  {
+    "id": "p30",
+    "name": "Air Purifier",
+    "brand": "PureAir",
+    "price": 12999,
+    "category": "Home Appliances",
+    "description": "HEPA air purifier for clean indoor air."
+  },
+
+  {
+    "id": "p31",
+    "name": "Office Chair",
+    "brand": "ErgoSeat",
+    "price": 7999,
+    "category": "Furniture",
+    "description": "Ergonomic office chair with lumbar support."
+  },
+  {
+    "id": "p32",
+    "name": "Study Table",
+    "brand": "WoodCraft",
+    "price": 5999,
+    "category": "Furniture",
+    "description": "Compact study table with storage drawers."
+  },
+  {
+    "id": "p33",
+    "name": "Bookshelf",
+    "brand": "BookNest",
+    "price": 4499,
+    "category": "Furniture",
+    "description": "Wooden bookshelf with modern design."
+  },
+  {
+    "id": "p34",
+    "name": "Sofa Set",
+    "brand": "Comforto",
+    "price": 25999,
+    "category": "Furniture",
+    "description": "3-seater sofa with premium fabric upholstery."
+  },
+  {
+    "id": "p35",
+    "name": "Dining Table Set",
+    "brand": "HomeStyle",
+    "price": 18999,
+    "category": "Furniture",
+    "description": "4-seater dining table with wooden finish."
+  },
+
+  {
+    "id": "p36",
+    "name": "Men's Running Shoes",
+    "brand": "RunFlex",
+    "price": 2999,
+    "category": "Fashion",
+    "description": "Lightweight running shoes with breathable mesh."
+  },
+  {
+    "id": "p37",
+    "name": "Women's Sneakers",
+    "brand": "StyleStep",
+    "price": 2799,
+    "category": "Fashion",
+    "description": "Casual sneakers with cushioned sole."
+  },
+  {
+    "id": "p38",
+    "name": "Smart Backpack",
+    "brand": "PackPro",
+    "price": 2499,
+    "category": "Fashion",
+    "description": "Backpack with USB charging port and laptop compartment."
+  },
+  {
+    "id": "p39",
+    "name": "Leather Wallet",
+    "brand": "UrbanHide",
+    "price": 1199,
+    "category": "Fashion",
+    "description": "Genuine leather wallet with multiple card slots."
+  },
+  {
+    "id": "p40",
+    "name": "Sunglasses",
+    "brand": "SunGuard",
+    "price": 1599,
+    "category": "Fashion",
+    "description": "UV-protected stylish sunglasses."
+  },
+
+  {
+    "id": "p41",
+    "name": "Digital Camera",
+    "brand": "PhotoSnap",
+    "price": 34999,
+    "category": "Electronics",
+    "description": "Mirrorless camera with 24MP sensor and 4K video."
+  },
+  {
+    "id": "p42",
+    "name": "Action Camera",
+    "brand": "ActionPro",
+    "price": 17999,
+    "category": "Electronics",
+    "description": "Waterproof action camera with image stabilization."
+  },
+  {
+    "id": "p43",
+    "name": "Tripod Stand",
+    "brand": "SteadyShot",
+    "price": 1999,
+    "category": "Accessories",
+    "description": "Adjustable tripod stand for cameras and smartphones."
+  },
+  {
+    "id": "p44",
+    "name": "Ring Light",
+    "brand": "GlowMax",
+    "price": 2499,
+    "category": "Accessories",
+    "description": "LED ring light for content creators and video calls."
+  },
+  {
+    "id": "p45",
+    "name": "Webcam HD",
+    "brand": "CamClear",
+    "price": 2999,
+    "category": "Accessories",
+    "description": "HD webcam with noise reduction microphone."
+  },
+
+  {
+    "id": "p46",
+    "name": "Printer All-in-One",
+    "brand": "PrintEase",
+    "price": 10999,
+    "category": "Electronics",
+    "description": "All-in-one printer with scan and copy features."
+  },
+  {
+    "id": "p47",
+    "name": "Router Dual Band",
+    "brand": "NetSpeed",
+    "price": 2499,
+    "category": "Electronics",
+    "description": "Dual-band WiFi router with high-speed connectivity."
+  },
+  {
+    "id": "p48",
+    "name": "Smart Plug",
+    "brand": "HomeLink",
+    "price": 999,
+    "category": "Smart Home",
+    "description": "Smart plug with app and voice control support."
+  },
+  {
+    "id": "p49",
+    "name": "Smart Bulb",
+    "brand": "BrightIQ",
+    "price": 799,
+    "category": "Smart Home",
+    "description": "Color-changing smart bulb with app control."
+  },
+  {
+    "id": "p50",
+    "name": "Smart Door Lock",
+    "brand": "SecureHome",
+    "price": 12999,
+    "category": "Smart Home",
+    "description": "Keyless smart door lock with fingerprint access."
+  },
+
+  {
+    "id": "p51",
+    "name": "Electric Toothbrush",
+    "brand": "SmileCare",
+    "price": 2499,
+    "category": "Personal Care",
+    "description": "Electric toothbrush with multiple cleaning modes."
+  },
+  {
+    "id": "p52",
+    "name": "Hair Dryer",
+    "brand": "StyleDry",
+    "price": 1999,
+    "category": "Personal Care",
+    "description": "Compact hair dryer with heat control settings."
+  },
+  {
+    "id": "p53",
+    "name": "Trimmer",
+    "brand": "GroomPro",
+    "price": 1499,
+    "category": "Personal Care",
+    "description": "Rechargeable trimmer for precise grooming."
+  },
+  {
+    "id": "p54",
+    "name": "Electric Shaver",
+    "brand": "ShaveEase",
+    "price": 2999,
+    "category": "Personal Care",
+    "description": "Cordless electric shaver with smooth performance."
+  },
+  {
+    "id": "p55",
+    "name": "Massage Gun",
+    "brand": "RelaxFit",
+    "price": 4999,
+    "category": "Personal Care",
+    "description": "Deep tissue massage gun for muscle recovery."
+  },
+
+  {
+    "id": "p56",
+    "name": "Yoga Mat",
+    "brand": "FlexYoga",
+    "price": 999,
+    "category": "Sports",
+    "description": "Non-slip yoga mat with comfortable cushioning."
+  },
+  {
+    "id": "p57",
+    "name": "Dumbbell Set",
+    "brand": "IronCore",
+    "price": 2999,
+    "category": "Sports",
+    "description": "Adjustable dumbbell set for home workouts."
+  },
+  {
+    "id": "p58",
+    "name": "Treadmill",
+    "brand": "RunTrack",
+    "price": 34999,
+    "category": "Sports",
+    "description": "Foldable treadmill with digital display."
+  },
+  {
+    "id": "p59",
+    "name": "Cricket Bat",
+    "brand": "PowerHit",
+    "price": 1999,
+    "category": "Sports",
+    "description": "Lightweight cricket bat for practice and matches."
+  },
+  {
+    "id": "p60",
+    "name": "Football",
+    "brand": "GoalPro",
+    "price": 999,
+    "category": "Sports",
+    "description": "Durable football suitable for all-weather play."
+  },
+
+  {
+    "id": "p61",
+    "name": "Office Desk Lamp",
+    "brand": "BrightDesk",
+    "price": 1299,
+    "category": "Home Decor",
+    "description": "LED desk lamp with adjustable brightness."
+  },
+  {
+    "id": "p62",
+    "name": "Wall Clock",
+    "brand": "TimeCraft",
+    "price": 799,
+    "category": "Home Decor",
+    "description": "Minimalist wall clock with silent movement."
+  },
+  {
+    "id": "p63",
+    "name": "Indoor Plant Pot",
+    "brand": "GreenNest",
+    "price": 699,
+    "category": "Home Decor",
+    "description": "Decorative indoor plant pot with modern design."
+  },
+  {
+    "id": "p64",
+    "name": "Curtain Set",
+    "brand": "SoftHome",
+    "price": 2499,
+    "category": "Home Decor",
+    "description": "Window curtains with premium fabric."
+  },
+  {
+    "id": "p65",
+    "name": "Bedside Table",
+    "brand": "SleepWell",
+    "price": 3999,
+    "category": "Furniture",
+    "description": "Compact bedside table with drawer."
+  },
+
+  {
+    "id": "p66",
+    "name": "Cookware Set",
+    "brand": "ChefMate",
+    "price": 5999,
+    "category": "Kitchen",
+    "description": "Non-stick cookware set for everyday cooking."
+  },
+  {
+    "id": "p67",
+    "name": "Knife Set",
+    "brand": "SharpEdge",
+    "price": 1999,
+    "category": "Kitchen",
+    "description": "Stainless steel kitchen knife set."
+  },
+  {
+    "id": "p68",
+    "name": "Water Bottle Steel",
+    "brand": "HydroLife",
+    "price": 999,
+    "category": "Kitchen",
+    "description": "Insulated steel water bottle."
+  },
+  {
+    "id": "p69",
+    "name": "Lunch Box",
+    "brand": "MealBox",
+    "price": 899,
+    "category": "Kitchen",
+    "description": "Leak-proof lunch box with compartments."
+  },
+  {
+    "id": "p70",
+    "name": "Coffee Maker",
+    "brand": "BrewMaster",
+    "price": 7999,
+    "category": "Kitchen",
+    "description": "Coffee maker with programmable settings."
+  },
+
+  {
+    "id": "p71",
+    "name": "Notebook Pack",
+    "brand": "WriteWell",
+    "price": 499,
+    "category": "Stationery",
+    "description": "Pack of ruled notebooks for daily use."
+  },
+  {
+    "id": "p72",
+    "name": "Ball Pen Set",
+    "brand": "InkFlow",
+    "price": 299,
+    "category": "Stationery",
+    "description": "Smooth writing ball pens set."
+  },
+  {
+    "id": "p73",
+    "name": "Office Organizer",
+    "brand": "DeskMate",
+    "price": 999,
+    "category": "Stationery",
+    "description": "Desk organizer for stationery items."
+  },
+  {
+    "id": "p74",
+    "name": "Whiteboard",
+    "brand": "ThinkBoard",
+    "price": 1999,
+    "category": "Stationery",
+    "description": "Magnetic whiteboard for office or home."
+  },
+  {
+    "id": "p75",
+    "name": "Sticky Notes Pack",
+    "brand": "NoteIt",
+    "price": 199,
+    "category": "Stationery",
+    "description": "Colorful sticky notes for reminders."
+  },
+
+  {
+    "id": "p76",
+    "name": "Car Dash Camera",
+    "brand": "DriveSafe",
+    "price": 4999,
+    "category": "Automotive",
+    "description": "Full HD dash camera with night vision."
+  },
+  {
+    "id": "p77",
+    "name": "Car Vacuum Cleaner",
+    "brand": "AutoClean",
+    "price": 2499,
+    "category": "Automotive",
+    "description": "Portable vacuum cleaner for car interiors."
+  },
+  {
+    "id": "p78",
+    "name": "Car Phone Holder",
+    "brand": "GripGo",
+    "price": 799,
+    "category": "Automotive",
+    "description": "Adjustable car phone holder for dashboard."
+  },
+  {
+    "id": "p79",
+    "name": "Car Air Freshener",
+    "brand": "FreshRide",
+    "price": 399,
+    "category": "Automotive",
+    "description": "Long-lasting car air freshener."
+  },
+  {
+    "id": "p80",
+    "name": "Tyre Inflator",
+    "brand": "AirPump",
+    "price": 2999,
+    "category": "Automotive",
+    "description": "Portable tyre inflator with digital display."
+  },
+
+  {
+    "id": "p81",
+    "name": "Smart Notebook",
+    "brand": "NoteSmart",
+    "price": 2499,
+    "category": "Stationery",
+    "description": "Reusable smart notebook with cloud sync."
+  },
+  {
+    "id": "p82",
+    "name": "VR Headset",
+    "brand": "VirtualX",
+    "price": 12999,
+    "category": "Electronics",
+    "description": "VR headset with immersive viewing experience."
+  },
+  {
+    "id": "p83",
+    "name": "Drone Camera",
+    "brand": "SkyView",
+    "price": 45999,
+    "category": "Electronics",
+    "description": "Camera drone with GPS and 4K recording."
+  },
+  {
+    "id": "p84",
+    "name": "Smart Scale",
+    "brand": "BodyTrack",
+    "price": 2499,
+    "category": "Health",
+    "description": "Smart weighing scale with body analysis."
+  },
+  {
+    "id": "p85",
+    "name": "Blood Pressure Monitor",
+    "brand": "HealthPlus",
+    "price": 1999,
+    "category": "Health",
+    "description": "Digital BP monitor for home use."
+  },
+
+  {
+    "id": "p86",
+    "name": "Thermometer Digital",
+    "brand": "TempCare",
+    "price": 499,
+    "category": "Health",
+    "description": "Fast and accurate digital thermometer."
+  },
+  {
+    "id": "p87",
+    "name": "First Aid Kit",
+    "brand": "SafeAid",
+    "price": 999,
+    "category": "Health",
+    "description": "Complete first aid kit for emergencies."
+  },
+  {
+    "id": "p88",
+    "name": "Smart Alarm Clock",
+    "brand": "WakeUp",
+    "price": 1999,
+    "category": "Smart Home",
+    "description": "Smart alarm clock with voice assistant."
+  },
+  {
+    "id": "p89",
+    "name": "Baby Monitor",
+    "brand": "CareWatch",
+    "price": 8999,
+    "category": "Baby Care",
+    "description": "Video baby monitor with night vision."
+  },
+  {
+    "id": "p90",
+    "name": "Stroller",
+    "brand": "BabyGo",
+    "price": 12999,
+    "category": "Baby Care",
+    "description": "Lightweight baby stroller with safety harness."
+  },
+
+  {
+    "id": "p91",
+    "name": "Toy Building Blocks",
+    "brand": "PlayBuild",
+    "price": 1499,
+    "category": "Toys",
+    "description": "Creative building blocks for kids."
+  },
+  {
+    "id": "p92",
+    "name": "Remote Control Car",
+    "brand": "SpeedToy",
+    "price": 2499,
+    "category": "Toys",
+    "description": "RC car with high-speed performance."
+  },
+  {
+    "id": "p93",
+    "name": "Educational Toy Set",
+    "brand": "LearnFun",
+    "price": 1999,
+    "category": "Toys",
+    "description": "Educational toys to enhance learning."
+  },
+  {
+    "id": "p94",
+    "name": "Puzzle Game",
+    "brand": "BrainPlay",
+    "price": 999,
+    "category": "Toys",
+    "description": "Challenging puzzle game for all ages."
+  },
+  {
+    "id": "p95",
+    "name": "Board Game",
+    "brand": "FunZone",
+    "price": 1799,
+    "category": "Toys",
+    "description": "Family board game for group entertainment."
+  },
+
+  {
+    "id": "p96",
+    "name": "E-Book Reader",
+    "brand": "ReadEasy",
+    "price": 8999,
+    "category": "Electronics",
+    "description": "E-ink e-book reader with glare-free display."
+  },
+  {
+    "id": "p97",
+    "name": "Smart Pen",
+    "brand": "WriteSmart",
+    "price": 3499,
+    "category": "Stationery",
+    "description": "Smart pen that digitizes handwritten notes."
+  },
+  {
+    "id": "p98",
+    "name": "Language Learning Device",
+    "brand": "LinguaPro",
+    "price": 5999,
+    "category": "Education",
+    "description": "AI-powered device for language learning."
+  },
+  {
+    "id": "p99",
+    "name": "Portable Projector",
+    "brand": "ViewCast",
+    "price": 19999,
+    "category": "Electronics",
+    "description": "Portable projector with wireless connectivity."
+  },
+  {
+    "id": "p100",
+    "name": "Smart Home Hub",
+    "brand": "HomeCentral",
+    "price": 6999,
+    "category": "Smart Home",
+    "description": "Central hub to control all smart home devices."
+  }
+]

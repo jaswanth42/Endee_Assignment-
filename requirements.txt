@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+endee
+python-dotenv
+langchain-groq
+langchain-core
