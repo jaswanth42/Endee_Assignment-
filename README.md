@@ -103,9 +103,3 @@ python src/search.py
 
 * `venv/` and `.env` are intentionally excluded from version control
 * This project focuses on logic clarity and structure rather than UI
-
-* Tailor this README **more AI-focused**
-* Make it **more minimal**
-* Rewrite it in **startup / production style**
-
-Just tell me 🔥
